@@ -1,2 +1,9 @@
-# DeepLearning
-This repository documents my hands-on learning and exploration of data mining concepts using the Weka tool. It includes practical experiments with classification, clustering, association rule mining, and preprocessing using various datasets.
+DeepLearning is a hands-on repository documenting my journey into deep learning concepts and applications through real-world datasets.🤖
+
+The repository focuses on building, training, and evaluating neural network models to solve practical problems such as prediction, classification, and pattern recognition. Emphasis is placed on data preprocessing, feature understanding, model architecture design, and performance evaluation.
+
+Each project reflects a step toward understanding how deep learning models learn from data and how these models can be applied to make intelligent, data-driven decisions in real-life scenarios.
+
+🚀 1. Customer Churn Prediction 
+
+This project aims to predict customer churn using deep learning models, helping businesses identify customers who are likely to stop using a service.
