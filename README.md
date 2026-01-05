@@ -10,3 +10,11 @@ This project aims to predict customer churn using deep learning models, helping 
 
 # The Wiki section of this repository provides a comprehensive and detailed overview of the fundamental concepts of deep learning.
 [Click here to explore the Wiki tab](https://github.com/Shahilasulthana/DeepLearning/wiki)
+
+Exploring fundamental concepts behine deep learning :
+
+[Single Unit Perceptron](https://github.com/Shahilasulthana/DeepLearning/wiki/Single-Layer-Perceptron)
+
+[Backpropagation](https://github.com/Shahilasulthana/DeepLearning/wiki/Backpropogation)
+
+[Regularization](https://github.com/Shahilasulthana/DeepLearning/wiki/Regularization)
