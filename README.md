@@ -7,3 +7,6 @@ Each project reflects a step toward understanding how deep learning models learn
 🚀 1. Customer Churn Prediction 
 
 This project aims to predict customer churn using deep learning models, helping businesses identify customers who are likely to stop using a service.
+
+# The Wiki section of this repository provides a comprehensive and detailed overview of the fundamental concepts of deep learning.
+[Click here to explore the Wiki tab](https://github.com/Shahilasulthana/DeepLearning/wiki)
